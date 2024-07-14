@@ -1,0 +1,7 @@
+names:
+- Sown field
+- field
+nc: 2
+test: validation/images
+train: train/images
+val: validation/images
