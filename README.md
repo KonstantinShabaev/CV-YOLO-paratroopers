@@ -13,5 +13,5 @@
 ## 🛠 Установка
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/field-segmentation.git
-cd field-segmentation
+git clone https://github.com/KonstantinShabaev/YOLO-paratroopers
+cd YOLO-paratroopers
